@@ -7,7 +7,7 @@ Install GEM------------------------
 gem install sinatra
 
 
-run----------------------
+run---------------------- ruby app.rb
 
 ridk install
 
@@ -18,3 +18,4 @@ depois:
 gem install rackup puma
 
 gem install sinatra json
+
