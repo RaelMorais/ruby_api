@@ -1,11 +1,13 @@
 Init Ruby-----
+Install Ruby in: https://rubyinstaller.org/downloads/
 
-Install GEM
+
+Install GEM------------------------
 
 gem install sinatra
 
 
-run
+run----------------------
 
 ridk install
 
